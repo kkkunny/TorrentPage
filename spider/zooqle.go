@@ -12,7 +12,7 @@ import (
 func NewSpiderZooqle(searchTask, detailTask *queue.Queue)*SpiderZooqle{
 	return &SpiderZooqle{
 		Name: "Zooqle",
-		Domain: "https://zooqle.com/",
+		Domain: "https://zooqle.com",
 		SearchTask: searchTask,
 		DetailTask: detailTask,
 	}
