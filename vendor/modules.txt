@@ -1,0 +1,43 @@
+# github.com/atotto/clipboard v0.1.2
+## explicit
+github.com/atotto/clipboard
+# github.com/gopherjs/gopherjs v0.0.0-20190411002643-bd77b112433e
+github.com/gopherjs/gopherjs/js
+# github.com/kkkunny/GoMy v0.0.0-20210110132750-e8cd7fa349fa
+## explicit
+github.com/kkkunny/GoMy/charset
+github.com/kkkunny/GoMy/container/linklist
+github.com/kkkunny/GoMy/container/queue
+github.com/kkkunny/GoMy/http/requests
+github.com/kkkunny/GoMy/log
+github.com/kkkunny/GoMy/re
+# github.com/therecipe/qt v0.0.0-20200904063919-c0c124a5770d
+## explicit
+github.com/therecipe/qt
+github.com/therecipe/qt/core
+github.com/therecipe/qt/gui
+github.com/therecipe/qt/internal
+github.com/therecipe/qt/interop/gow
+github.com/therecipe/qt/uitools
+github.com/therecipe/qt/widgets
+# golang.org/x/net v0.0.0-20190420063019-afa5a82059c6
+golang.org/x/net/html
+golang.org/x/net/html/atom
+golang.org/x/net/html/charset
+# golang.org/x/text v0.3.0
+golang.org/x/text/encoding
+golang.org/x/text/encoding/charmap
+golang.org/x/text/encoding/htmlindex
+golang.org/x/text/encoding/ianaindex
+golang.org/x/text/encoding/internal
+golang.org/x/text/encoding/internal/identifier
+golang.org/x/text/encoding/japanese
+golang.org/x/text/encoding/korean
+golang.org/x/text/encoding/simplifiedchinese
+golang.org/x/text/encoding/traditionalchinese
+golang.org/x/text/encoding/unicode
+golang.org/x/text/internal/tag
+golang.org/x/text/internal/utf8internal
+golang.org/x/text/language
+golang.org/x/text/runes
+golang.org/x/text/transform
