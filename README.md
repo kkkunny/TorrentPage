@@ -15,4 +15,4 @@ https://zooqle.com
 
 截图：
 
-![image-20210111210104726.png](https://github.com/kkkunny/TorrentPage/blob/main/images/image-20210111210104726.png)
+![image-20210111210104726.png](https://raw.githubusercontent.com/kkkunny/TorrentPage/main/images/image-20210111210104726.png)
