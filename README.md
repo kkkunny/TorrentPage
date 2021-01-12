@@ -1,8 +1,6 @@
 # TorrentPage
  therecipe/qt制作的磁力爬虫
 
-速度很慢...很慢...
-
 爬取网站：
 
 https://0mag.net

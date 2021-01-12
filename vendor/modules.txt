@@ -9,6 +9,7 @@ github.com/kkkunny/GoMy/charset
 github.com/kkkunny/GoMy/container/linklist
 github.com/kkkunny/GoMy/container/queue
 github.com/kkkunny/GoMy/http/requests
+github.com/kkkunny/GoMy/worker
 github.com/kkkunny/GoMy/log
 github.com/kkkunny/GoMy/re
 # github.com/therecipe/qt v0.0.0-20200904063919-c0c124a5770d

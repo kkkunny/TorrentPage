@@ -6,6 +6,7 @@ github.com/gopherjs/gopherjs v0.0.0-20190411002643-bd77b112433e h1:XWcjeEtTFTOVA
 github.com/gopherjs/gopherjs v0.0.0-20190411002643-bd77b112433e/go.mod h1:wJfORRmW1u3UXTncJ5qlYoELFm8eSnnEO6hX4iZ3EWY=
 github.com/kkkunny/GoMy v0.0.0-20210110132750-e8cd7fa349fa h1:1vlUTtlJ1ErcL2Va5g6VseqlwlN5CK2xTi9eK1sDR94=
 github.com/kkkunny/GoMy v0.0.0-20210110132750-e8cd7fa349fa/go.mod h1:ngm/ABXGCkC6BNDIjKLFTlnvwht2+o3OOkWC+zRkZBs=
+github.com/kkkunny/GoMy v0.0.0-20210111092103-85fd4e5d6f69 h1:uDXkizRW9gZw0MYT6e3hn2xBWqHUYQpyby6LHJu1yyE=
 github.com/konsorten/go-windows-terminal-sequences v1.0.1/go.mod h1:T0+1ngSBFLxvqU3pZ+m/2kptfBszLMUkC4ZK/EgS/cQ=
 github.com/konsorten/go-windows-terminal-sequences v1.0.2/go.mod h1:T0+1ngSBFLxvqU3pZ+m/2kptfBszLMUkC4ZK/EgS/cQ=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
