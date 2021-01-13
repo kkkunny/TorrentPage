@@ -62,7 +62,7 @@ func (this *App) Init() error {
 		return errors.New("no find QTableWidget widget")
 	}
 	this.displayTable = (*widgets.QTableWidget)(unsafe.Pointer(tableObj))
-	this.displayTable.SetColumnWidth(0, 100)
+	this.displayTable.SetColumnWidth(0, 75)
 	this.displayTable.SetColumnWidth(1, 820)
 	this.displayTable.SetColumnWidth(2, 123)
 	this.displayTable.HorizontalHeader().SetSectionResizeMode(widgets.QHeaderView__Fixed)
