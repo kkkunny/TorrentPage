@@ -31,15 +31,17 @@ type Spider interface {
 
 func NewSpiderManager() *SpiderManager {
 	var sm SpiderManager
-	s1 := NewSpider0Mag()
-	s2 := NewSpiderBitcq()
-	s3 := NewSpiderZooqle()
-	s4 := NewSpiderCilixingqiu()
+	//s1 := NewSpider0Mag()
+	//s2 := NewSpiderBitcq()
+	//s3 := NewSpiderZooqle()
+	//s4 := NewSpiderCilixingqiu()
+	s5 := NewSpiderZhongziso()
 	sm.Spiders = map[string]Spider{
-		s1.Name: s1,
-		s2.Name: s2,
-		s3.Name: s3,
-		s4.Name: s4,
+		//s1.Name: s1,
+		//s2.Name: s2,
+		//s3.Name: s3,
+		//s4.Name: s4,
+		s5.Name: s5,
 	}
 	return &sm
 }

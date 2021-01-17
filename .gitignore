@@ -3,3 +3,4 @@ vendor/github.com/kkkunny/GoMy/
 .idea/
 deploy/
 windows/
+test/

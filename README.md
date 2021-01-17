@@ -3,13 +3,15 @@
 
 爬取网站：
 
-https://0mag.net
+无极搜索 https://0mag.net
 
-https://bitcq.com
+Bitcq https://bitcq.com
 
-https://cilixingqiu.co
+磁力星球 https://cilixingqiu.co
 
-https://zooqle.com
+Zooqle https://zooqle.com
+
+种子搜 https://zhongziso88.xyz
 
 截图：
 
